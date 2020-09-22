@@ -1,8 +1,6 @@
-### Hello there! 👋
+### I am a fullstack developer currently working with JavaScript and a lot of technologies related to .NET. Most of my applications are built using C#, TS, JS or Python! 
 
-## Currently fullstack developer working with JavaScript and a lot of technologies related to .NET. Most of my applications are built using C#, TS, JS or Python! 
-
-## And to have these _neat_ trophies, check [this repo](https://github.com/ryo-ma/github-profile-trophy) out!
+### And to have these _neat_ trophies, check [this repo](https://github.com/ryo-ma/github-profile-trophy) out!
 
 <!--
 **JustAn0therDev/JustAn0therDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
