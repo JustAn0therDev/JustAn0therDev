@@ -1,1 +1,1 @@
-### I am a programmer currently working with fullstack web development. Most of my projects use Python and/or C#.
+### I am a programmer currently working with "Fullstack" web development.
