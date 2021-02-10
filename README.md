@@ -1,1 +1,1 @@
-### I am a programmer currently working with Fullstack web development.
+### A programmer currently working with fullstack web development.
