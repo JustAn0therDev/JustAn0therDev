@@ -1,1 +1,1 @@
-### A programmer currently working with fullstack web development.
+### A programmer striving to get better every day. Code quality, testing and performance advocate.
