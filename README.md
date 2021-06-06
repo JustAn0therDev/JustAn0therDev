@@ -1,1 +1,1 @@
-### A programmer striving to get better every day. Code quality and testing enthusiast.
+### A programmer striving to get better every day. Clean code and testing enthusiast.
